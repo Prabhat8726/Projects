@@ -1,0 +1,18 @@
+#take input of age from 3 people
+#determine the youngest and oldest 
+
+
+firstperson=int(input("age of first person"))
+secondperson=int(input("age of second person"))
+thirdperson=int(input("age of third person"))
+
+if firstperson>secondperson:
+    print("firstperson is older")
+else:
+    print("firstperson is younger")
+
+if secondperson>thirdperson:
+   print("secondperson is older")
+else:
+    print("secondperson is younger")    
+    

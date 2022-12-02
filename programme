@@ -1,0 +1,14 @@
+name=input("enter the name:")
+
+attendance=int(input("enter the college days attended")
+
+collagedays= 800
+
+percent=(attendance/collegedays)*100
+
+if attendancepercent>=75:
+    print(name, 'is able to give the test')
+    print int("Attendance Percentage: ",attendance")
+ else:
+    print(name, 'is not able to give the test')
+    print("attendance percent:",attendance)
