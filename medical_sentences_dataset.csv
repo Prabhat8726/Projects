@@ -1,0 +1,41 @@
+conversations,disease,response
+"I have a sore throat and keep sneezing.,Common Cold,It sounds like you're experiencing symptoms of the common cold. Make sure to rest and stay hydrated".
+"My nose is runny and I have a mild fever.,Common Cold,Your symptoms suggest a common cold. Consider over-the-counter medication and warm fluids".
+"I've been coughing and feeling congested.,Common Cold,That sounds like a common cold. Try steam inhalation and rest".
+"I'm experiencing nasal discharge and fatigue.,Common Cold,This could be a common cold. Keep yourself warm and drink plenty of water".
+"I have a high fever and my whole body aches.,Flu,Your symptoms are consistent with the flu. Take rest and consult a doctor if the fever persists".
+"I’m getting headaches and chills.,Flu,These symptoms may indicate the flu. Stay warm and monitor your temperature".
+"I feel very fatigued and have a dry cough.,Flu,This sounds like influenza. Make sure to hydrate and get plenty of rest".
+"My muscles hurt and I have a sore throat.,Flu,You may have the flu. Please avoid cold drinks and take warm fluids".
+"I can’t taste or smell anything.,COVID-19,Loss of taste and smell is a common symptom of COVID-19. Consider getting tested immediately".
+"I have a dry cough and a high fever.,COVID-19,Your symptoms may be due to COVID-19. Please isolate and get tested".
+"I'm feeling shortness of breath and extreme fatigue.,COVID-19,This may indicate COVID-19. It's best to consult a healthcare provider urgently".
+"I’m having chest pain along with a sore throat.,COVID-19,These symptoms could be related to COVID-19. Get tested and rest".
+"I’m having a throbbing headache and feel nauseous.,Migraine,This sounds like a migraine. Try resting in a dark, quiet room and stay hydrated".
+"Light makes my head hurt more.,Migraine,That may be a migraine with light sensitivity. Reduce screen time and rest well".
+"I have pulsating pain on one side of my head.,Migraine,Your symptoms point toward a migraine. Avoid bright lights and take rest".
+"I saw flashing lights and then started vomiting.,Migraine,These are classic migraine symptoms. Take prescribed medicine and relax".
+"I feel nauseous and my stomach is cramping.,Food Poisoning,This could be food poisoning. Drink oral rehydration salts and avoid solid food".
+"I’ve been vomiting and have diarrhea.,Food Poisoning,These symptoms suggest food poisoning. Stay hydrated and eat bland foods".
+"My abdomen hurts and I feel very dehydrated.,Food Poisoning,That sounds like food poisoning. Take plenty of fluids and electrolytes".
+I lost my appetite and feel weak.,Food Poisoning,You may have food poisoning. Avoid dairy and oily foods for a while.
+My joints hurt and I’ve developed a skin rash.,Dengue,These symptoms may indicate dengue. Please get a blood test immediately.
+I have a high fever and my gums are bleeding.,Dengue,This sounds like dengue. Seek medical attention as soon as possible.
+My muscles are aching and I’m very tired.,Dengue,This may be due to dengue fever. Stay indoors and consult a doctor quickly.
+I’ve got a severe headache and nausea.,Dengue,These are signs of dengue. Get tested and stay hydrated.
+I get chills followed by sweating.,Malaria,These are classic malaria symptoms. You should get a blood smear test immediately.
+I'm having recurring fever and vomiting.,Malaria,This could be malaria. Visit a clinic and avoid mosquito bites.
+I feel muscle pain and constant headaches.,Malaria,These are likely malaria symptoms. See a doctor and rest well.
+I’m feeling nauseous and fatigued.,Malaria,This might be malaria. Drink water and seek immediate medical care.
+I’ve had a prolonged fever and my stomach hurts.,Typhoid,This sounds like typhoid. You should get a Widal test done.
+I'm constipated and have a headache.,Typhoid,These are typhoid indicators. Drink clean water and eat soft foods.
+I’m tired all the time and coughing.,Typhoid,This may be typhoid. Go for testing and eat boiled foods.
+I have no appetite and I’m sweating a lot.,Typhoid,You might have typhoid. Avoid raw food and consult a doctor.
+My skin is itchy and I have rashes.,Allergy,It looks like you're having an allergic reaction. Take antihistamines and avoid triggers.
+I keep sneezing and my eyes are watery.,Allergy,These symptoms are related to an allergy. Stay away from dust and pollen.
+I feel nasal congestion and swelling.,Allergy,It may be an allergy. Avoid allergens and try anti-allergy medication.
+I’m breaking out in hives and having trouble breathing.,Allergy,That sounds like a severe allergy. Seek medical help immediately.
+I'm wheezing and my chest feels tight.,Asthma,These are signs of asthma. Use an inhaler and see a doctor.
+I have shortness of breath and keep coughing.,Asthma,This may be asthma. Try to stay calm and use your prescribed medication.
+I struggle to breathe and feel tired.,Asthma,You could be having an asthma episode. Sit upright and use your inhaler.
+I wake up coughing and breathing rapidly.,Asthma,These symptoms suggest asthma. Monitor your breathing and consult a specialist".
